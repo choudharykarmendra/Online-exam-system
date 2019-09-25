@@ -582,9 +582,9 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
     
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="https://scontent.fmaa2-2.fna.fbcdn.net/v/t1.0-9/70664596_756559361441286_1870759102687215616_n.jpg?_nc_cat=103&_nc_oc=AQnGbF-pnY80S5lq4-2pu4wXPoS3p99CY7yUVYmMBvG_ZoSxN2XPqVzD7Uum2rYyzFs&_nc_ht=scontent.fmaa2-2.fna&oh=eb8e1b3451c17406befa6eb81032b8a2&oe=5DFF3ADA.jpg" alt="Karmendra" width="400" height="300">
+        <img src="karmendra.jpg" alt="Karmendra" width="400" height="300">
         <p><strong>Karmendra Choudhary</strong></p>
-        <p>Nitk 3rd year BTECH</p>
+        <p> 3rd year BTECH</p>
       </div>
     </div>
     
@@ -647,9 +647,9 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
   <div class="row">
     <div class="col-sm-5">
       <p>Contact us and we'll get back to you within 24 hours.</p>
-      <p><span class="glyphicon glyphicon-map-marker"></span> Karnataka, INDIA</p>
-      <p><span class="glyphicon glyphicon-phone"></span> +91 9491849828 </p>
-      <p><span class="glyphicon glyphicon-envelope"></span> kpsagar1999@gmail.com</p>
+      <p><span class="glyphicon glyphicon-map-marker"></span> Vellore,Tamil Nadu, INDIA</p>
+      <p><span class="glyphicon glyphicon-phone"></span> +91 7737866377 </p>
+      <p><span class="glyphicon glyphicon-envelope"></span> choudharykarmendra@gmail.com</p>
     </div>
     <div class="col-sm-7 slideanim">
 
