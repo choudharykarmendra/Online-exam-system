@@ -579,17 +579,11 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
   <h2>Developers</h2><br>
   <h4>Who are we</h4>
   <div class="row text-center slideanim">
+    
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="photo.jpg" alt="PRASANTH" width="400" height="300">
-        <p><strong>PRASANTH SAGAR KOTTAKOTA</strong></p>
-        <p>Nitk 3rd year BTECH</p>
-      </div>
-    </div>
-    <div class="col-sm-4">
-      <div class="thumbnail">
-        <img src="profilepic.jpg" alt="VIJAY" width="400" height="300">
-        <p><strong>VIJAY KUMAR</strong></p>
+        <img src="https://scontent.fmaa2-2.fna.fbcdn.net/v/t1.0-9/70664596_756559361441286_1870759102687215616_n.jpg?_nc_cat=103&_nc_oc=AQnGbF-pnY80S5lq4-2pu4wXPoS3p99CY7yUVYmMBvG_ZoSxN2XPqVzD7Uum2rYyzFs&_nc_ht=scontent.fmaa2-2.fna&oh=eb8e1b3451c17406befa6eb81032b8a2&oe=5DFF3ADA.jpg" alt="Karmendra" width="400" height="300">
+        <p><strong>Karmendra Choudhary</strong></p>
         <p>Nitk 3rd year BTECH</p>
       </div>
     </div>
